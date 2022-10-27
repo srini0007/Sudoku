@@ -1,6 +1,7 @@
 # Sudoku
 
 * Random grid filler
-* user can play the sudoku
-* has hint option for current place
+* has hint option to solve sudoku
 * can find solution to the grid
+
+developed using HTML , CSS , Javascript
