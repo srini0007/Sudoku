@@ -1,7 +1,7 @@
 # Sudoku
 
 * Random grid filler
-* has hint option to solve sudoku
-* can find solution to the grid
+* Has hint option to solve sudoku
+* Can find solution to the grid
 
-developed using HTML , CSS , Javascript
+Developed using HTML , CSS , Javascript
